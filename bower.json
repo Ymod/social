@@ -1,0 +1,22 @@
+{
+  "name": "social",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Ymod/social",
+  "authors": [
+    "Marchal yoan <marchalyoan@gmail.com>"
+  ],
+  "description": "",
+  "main": "sass/main.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
